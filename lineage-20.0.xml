@@ -11,6 +11,7 @@
   <remote  name="mi-thorium"
            fetch="https://github.com/Mi-Thorium"
            revision="a13/master" />
+  <remote name="sounddrill31" fetch="https://github.com/sounddrill31" />
 
  <!-- Dependencies -->
 
