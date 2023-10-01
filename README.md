@@ -31,8 +31,8 @@
 - If you're going to build ROM which is supported here, Put the corresponding manifest file in `.repo/local_manifests`, re-run `repo sync`, and apply all the patches that's given in this repo.
 - If you're going to build ROM which we doesn't support, Make sure to use R HALs and apply all [our commits](https://github.com/Mi-Thorium/android_hardware_qcom_audio/commits/lineage-19.1-caf-msm8953) in Audio HAL.
 
-- Credit:
-MiThorium: 0xCafebabe and all other contributors for device trees, kernel sources, common efforts, etc
-Gapps: PixysOS team for the vendor_gapps package, cloned to vendor/gms
-LineageOS: I have used lineageOS 20 as the base, so thanks a lot to the cyanogenMOD, lineageOS team and contibutors!
-ROM-Builders: I did have to move my FlairOS manifests and more to local_manifests just to comply with their small list of ROM building targets but thanks a lot for giving a good platform for allowing learners to build ROMs without any cost
+# Credit:
+- MiThorium: 0xCafebabe and all other contributors for device trees, kernel sources, common efforts, etc
+- Gapps: PixysOS team for the vendor_gapps package, cloned to vendor/gms
+- LineageOS: I have used lineageOS 20 as the base, so thanks a lot to the cyanogenMOD, lineageOS team and contibutors!
+- ROM-Builders: I did have to move my FlairOS manifests and more to local_manifests just to comply with their small list of ROM building targets but thanks a lot for giving a - good platform for allowing learners to build ROMs without any cost
