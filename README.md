@@ -35,4 +35,4 @@
 - MiThorium: 0xCafebabe and all other contributors for device trees, kernel sources, common efforts, etc
 - Gapps: PixysOS team for the vendor_gapps package, cloned to vendor/gms
 - LineageOS: I have used lineageOS 20 as the base, so thanks a lot to the cyanogenMOD, lineageOS team and contibutors!
-- ROM-Builders: I did have to move my FlairOS manifests and more to local_manifests just to comply with their small list of ROM building targets but thanks a lot for giving a - good platform for allowing learners to build ROMs without any cost
+- ROM-Builders: I did have to move my FlairOS manifests and more to local_manifests just to comply with their small list of ROM building targets but thanks a lot for giving a  good platform for allowing learners to build ROMs without any cost
